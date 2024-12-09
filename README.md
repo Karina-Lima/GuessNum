@@ -9,7 +9,7 @@ O projeto tem sua estrutura a partir do conjunto de dados MNIST, uma base de dad
 ## 💻Como executar o projeto
 
 ### Ambiente de Execução
-Para executar e testar nosso projeto em uma máquina local, é necessário que a linguagem de programação Python esteja instalada, ou que você esteja utilizando um ambiente virtual com suporte a essa linguagem. Para verificar se o Python está instalado em seu computador, execute o seguinte comando no Prompt de Comando:
+Para executar e testar o projeto em uma máquina local, é necessário que a linguagem de programação Python esteja instalada, ou que você esteja utilizando um ambiente virtual com suporte a essa linguagem. Para verificar se o Python está instalado em seu computador, execute o seguinte comando no Prompt de Comando:
 
 ```python –version```
 
